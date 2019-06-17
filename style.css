@@ -46,3 +46,17 @@ form h3{
   color: gray;
 
 }
+#loghi{
+  background-color: #f3f5f9;
+}
+#loghi h4{
+  text-align: center;
+  color: gray;
+}
+#loghi img{
+  width: 100%;
+  height:auto;
+}
+#loghi p{
+  text-align: center;
+}
