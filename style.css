@@ -1,0 +1,47 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.center-marg{
+  margin: 0 10%;
+}
+
+nav p a {
+  padding: 0 20px;
+}
+.signup{
+  border: 1px solid blue;
+  border-radius:3px;
+  color: blue;
+  margin-top: 15px;
+  padding: 5px;
+}
+#welcome{
+  background-color: blue;
+  margin-top: -20px;
+}
+#welcome h1, #welcome p{
+  color:white;
+}
+
+form{
+  background-color: white;
+  border-radius: 5px;
+  margin: 30px 0;
+  padding: 20px;
+}
+form h3{
+  color:#171559;
+}
+
+.create{
+  background-color: #54b864;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+}
+#welcome .form-group p{
+  color: gray;
+
+}
