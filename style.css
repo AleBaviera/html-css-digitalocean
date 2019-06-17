@@ -48,15 +48,60 @@ form h3{
 }
 #loghi{
   background-color: #f3f5f9;
+  margin-top: -20px;
+  padding: 30px 10px;
 }
 #loghi h4{
   text-align: center;
   color: gray;
+
 }
 #loghi img{
   width: 100%;
   height:auto;
+
 }
 #loghi p{
   text-align: center;
 }
+#git{
+  margin-top: 0px;
+}
+#doc{
+  margin-top: 20px;
+}
+#sla{
+  margin-top: 20px;
+}
+#has{
+  margin-top: 30px;
+}
+#wew{
+  margin-top: 25px;
+}
+@media all and (min-width:992px) {
+
+  #spl{
+    margin-top: 50px;
+  }
+
+}
+
+
+/* prova lista */
+
+
+
+    /* ul::after{
+      content:"";
+      display:table;
+      clear: both;
+    }
+    #loghi ul li {
+      list-style: none;
+      position: relative;
+      float: left;
+    }
+    ul li img{
+      width: 100px;
+    } */
