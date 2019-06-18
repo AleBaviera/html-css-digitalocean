@@ -22,14 +22,14 @@ nav p a {
 
 
   nav .navbar{
-    background-color: blue;
+    background-image: url("https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg");
     margin-bottom: -30px;
     border: 0 ;
   }
 
 }
 #welcome{
-  background-color: blue;
+  background-image: url("https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg");
   margin-top: -20px;
   padding: 130px 10px;
 }
@@ -189,6 +189,7 @@ form h3{
 
 #tables{
   background-color: #031b4e;
+  background-image: url("https://www.digitalocean.com/assets/media/homepage/data-center-map-20321538.svg");
   margin: 40px auto;
   padding: 30px;
 
@@ -226,7 +227,7 @@ form h3{
 }
 
 #start{
-  background-color: blue;
+  background-image: url("https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg");
   padding: 80px;
   text-align: center;
 }
@@ -246,7 +247,7 @@ form h3{
   padding: 20px;
 }
 footer{
-  background-color: #171559;
+  background-color: #010e28;
   color: gray;
   padding: 60px;
 }
