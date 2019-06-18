@@ -163,8 +163,20 @@ form h3{
   margin: 40px auto;
 }
 
-
-
+#built{
+  margin: 40px auto;
+  padding: 30px;
+  text-align: left;
+  color:#171559;
+}
+#built h2{
+  text-align: center;
+}
+#built i{
+  margin: 20px 40px;
+  font-size: 40px;
+  color: blue;
+}
 
 
 
