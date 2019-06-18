@@ -123,17 +123,37 @@ form h3{
       width: 100px;
     } */
 #deploy{
+  margin: 40px auto;
   padding: 30px;
-}
-#deploy h2, #deployp p{
   text-align: center;
+  color:#171559;
 }
+
 
 #deploy ul li{
   margin: 20px 40px;
   padding: 10px 20px;
   list-style:none;
 }
+#deploy ul li a{
+  text-decoration: none;
+  color: lightgray;
+}
+#deploy ul li a:hover{
+  color:#171559;
+}
+
 #deploy i{
   margin: 20px 40px;
+  font-size: 40px;
+  color: blue;
+}
+#designed{
+  text-align: center;
+  margin: 40px auto;
+}
+#designed img{
+  width: 70%;
+  height: auto;
+  margin: 40px auto;
 }
