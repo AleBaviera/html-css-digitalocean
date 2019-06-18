@@ -178,10 +178,30 @@ form h3{
   color: blue;
 }
 
+#tables{
+  background-color: #031b4e;
+  margin: 40px auto;
+  padding: 30px;
 
+}
 
+#tables h2{
+  color: white;
+  text-align: center;
+}
 
+#tables table tr td{
 
+  border-bottom: 1px solid lightgray;
+  padding-right: 20px;
+  text-align: left;
+  color: white;
+}
+
+#tables table tr td a{
+  text-align: right;
+  padding-left: 100px;
+}
 #teams{
   background-color: #f3f5f9;
   text-align: center;
@@ -194,4 +214,25 @@ form h3{
   width: 70%;
   height: auto;
   margin: 40px auto;
+}
+
+#start{
+  background-color: blue;
+  padding: 80px;
+  text-align: center;
+}
+
+
+#start h2{
+  font-size: 60px;
+  color:white;
+}
+#start button{
+  border: 1px solid blue;
+  border-radius:8px;
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 15px;
+  padding: 20px;
 }
