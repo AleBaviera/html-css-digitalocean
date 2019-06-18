@@ -52,15 +52,24 @@ form{
 form h3{
   color:#171559;
 }
-
+.form-group .insert-text{
+  width: 100%;
+}
 .create{
+  width: 100%;
   background-color: #54b864;
   color: white;
   border-radius: 5px;
   padding: 5px;
 }
+.googlesignup{
+  width: 100%;
+  border-radius: 5px;
+  padding: 5px;
+}
 #welcome .form-group p{
   color: gray;
+
 
 }
 #loghi{
