@@ -134,6 +134,7 @@ form h3{
   margin: 20px 40px;
   padding: 10px 20px;
   list-style:none;
+  text-align: left;
 }
 #deploy ul li a{
   text-decoration: none;
@@ -149,10 +150,35 @@ form h3{
   color: blue;
 }
 #designed{
+  background-color: #f3f5f9;
   text-align: center;
   margin: 40px auto;
+  padding: 30px;
+
+  color:#171559;
 }
 #designed img{
+  width: 70%;
+  height: auto;
+  margin: 40px auto;
+}
+
+
+
+
+
+
+
+
+#teams{
+  background-color: #f3f5f9;
+  text-align: center;
+  margin: 40px auto;
+  padding: 30px;
+
+  color:#171559;
+}
+#teams img{
   width: 70%;
   height: auto;
   margin: 40px auto;
