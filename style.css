@@ -22,12 +22,18 @@ button.signup:hover{
   background-color: blue;
   color: white;
 }
-nav .navbar a svg{
+/* nav .navbar a svg{
   color: blue;
-}
+} */
+
 #bs-example-navbar-collapse-1 ul li a:hover{
   color: blue;
 }
+
+/* .dropdown ul li a:hover{
+
+} */
+
 @media all and (max-width:767px) {
 
 
@@ -151,11 +157,13 @@ form h3{
 #deploy{
   margin: 40px auto;
   padding: 30px;
-  text-align: center;
+  text-align: left;
   color:#171559;
 }
 
-
+#deploy h2, #deploy p{
+  text-align: center;
+}
 #deploy ul li{
   margin: 20px 40px;
   padding: 10px 20px;
@@ -174,6 +182,9 @@ form h3{
   margin: 20px 40px;
   font-size: 40px;
   color: blue;
+}
+#deploy .row p{
+  text-align: left;
 }
 #designed{
   background-color: #f3f5f9;
